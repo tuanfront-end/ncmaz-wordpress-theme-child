@@ -1,0 +1,1 @@
+# ncmaz-wordpress-theme-child
